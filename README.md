@@ -726,10 +726,10 @@ contact.html
 ```
 
 ## OUTPUT:
-![output](./images/download(1).png)
-![output](./images/download(2).png)
-![output](./images/download(3).png)
-![output](./images/download(4).png)
+![output](./a.png)
+![output](./g.png)
+![output](./downloa.png)
+![output](.downloady.png)
 ![output](./images/download.png)
 
 ### Home Page:
